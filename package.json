@@ -1,0 +1,27 @@
+{
+  "name": "json-compress",
+  "version": "1.0.0",
+  "description": "JSON compressor with mappings for decompression.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "mocha test/main.spec.js"
+  },
+  "keywords": [
+    "json",
+    "compress",
+    "compression",
+    "map",
+    "mapping",
+    "reverse",
+    "minify",
+    "minifier"
+  ],
+  "author": "Ramtin Soltani <ramtin@chiselpowered.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
