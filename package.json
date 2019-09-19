@@ -1,5 +1,5 @@
 {
-  "name": "json-compress",
+  "name": "json-mangler",
   "version": "1.0.0",
   "description": "JSON compressor with mappings for decompression.",
   "main": "index.js",
