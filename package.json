@@ -23,5 +23,16 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ramtinsoltani/json-mangler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ramtinsoltani/json-mangler/issues"
+  },
+  "homepage": "https://github.com/ramtinsoltani/json-mangler#readme"
 }
