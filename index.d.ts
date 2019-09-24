@@ -1,4 +1,4 @@
-declare module 'json-compress' {
+declare module 'json-mangler' {
 
   /**
   * Compressor class used for compressing JSON objects.
